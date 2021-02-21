@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wsl-movie-app-2021/static/css/main.08fd7533.chunk.css",
+    "main.css": "/wsl-movie-app-2021/static/css/main.7061f594.chunk.css",
     "main.js": "/wsl-movie-app-2021/static/js/main.f048034f.chunk.js",
     "main.js.map": "/wsl-movie-app-2021/static/js/main.f048034f.chunk.js.map",
     "runtime-main.js": "/wsl-movie-app-2021/static/js/runtime-main.3a7587c3.js",
@@ -8,13 +8,13 @@
     "static/js/2.eae3cbea.chunk.js": "/wsl-movie-app-2021/static/js/2.eae3cbea.chunk.js",
     "static/js/2.eae3cbea.chunk.js.map": "/wsl-movie-app-2021/static/js/2.eae3cbea.chunk.js.map",
     "index.html": "/wsl-movie-app-2021/index.html",
-    "static/css/main.08fd7533.chunk.css.map": "/wsl-movie-app-2021/static/css/main.08fd7533.chunk.css.map",
+    "static/css/main.7061f594.chunk.css.map": "/wsl-movie-app-2021/static/css/main.7061f594.chunk.css.map",
     "static/js/2.eae3cbea.chunk.js.LICENSE.txt": "/wsl-movie-app-2021/static/js/2.eae3cbea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3a7587c3.js",
     "static/js/2.eae3cbea.chunk.js",
-    "static/css/main.08fd7533.chunk.css",
+    "static/css/main.7061f594.chunk.css",
     "static/js/main.f048034f.chunk.js"
   ]
 }
